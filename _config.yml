@@ -1,8 +1,8 @@
-title: Hello, world! I'm David Freeman
+title: Cuong Nguyen's landing page
 description: > # this means to ignore newlines until "baseurl:"
   Cuong Nguyen. Research Scientist. HCI and VR.
 permalink: ':title/'
-baseurl: "/me" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
